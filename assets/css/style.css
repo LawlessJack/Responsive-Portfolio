@@ -168,6 +168,9 @@ h3, h2 {
   background: #4aaaa5;
   border-bottom: 0;
 }
+.work a:hover{
+  color: red;
+}
 
 .auth-image {
   float: left;
@@ -215,6 +218,9 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+}
+#contactInfo{
+  text-align: center;
 }
 
 @media screen and (max-width:980px){
